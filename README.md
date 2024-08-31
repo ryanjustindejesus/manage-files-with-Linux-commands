@@ -1,4 +1,4 @@
-<h1>Manage files with Linxu commands </h1>
+<h1>Manage files with Linux commands </h1>
 
 
 
