@@ -26,7 +26,7 @@ In this lab, I learned how to manage and modify files in a Linux file structure.
 In this task, I created a dedicated subdirectory called logs, which will be used to store all future log files. 
 <br /> <br />
 (1) First, I used the command "mkdir logs" to create a new subdirectory called logs in the /home/analyst directory. <br/> <br/>
-(2) Then, I used the command "ls" to list the contents of the /home/analyst directory to confirm that I have successfully created the new logs subdirectory. 
+(2) Finally, I used the command "ls" to list the contents of the /home/analyst directory to confirm that I have successfully created the new logs subdirectory. 
 <br/> <br /> <p align="center">
 <img src="https://imgur.com/u8iBh9T.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
@@ -35,7 +35,7 @@ In this task, I created a dedicated subdirectory called logs, which will be use
  In this task, I removed the temp directory, as I will no longer be placing items in it.
 <br /> <br />
 (1) First, I used the command "rmdir temp" to remove the /home/analyst/temp directory. <br/> <br/>
-(2) Then, I used the command "ls" to list the contents of the /home/analyst directory to confirm that I have removed the temp subdirectory. 
+(2) Finally, I used the command "ls" to list the contents of the /home/analyst directory to confirm that I have removed the temp subdirectory. 
 <br/> <br/> <p align="center"> 
 <img src="https://imgur.com/2jeVshm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
@@ -55,7 +55,7 @@ I moved the 'Q3patches.txt' file from the 'notes' directory to the 'repor
  In this task, I deleted an unused file called tempnotes.txt from the /home/analyst/notes directory.
  <br /> <br />
 (1) First, I used the command "rm tempnotes.txt" to remove the tempnotes.txt file from the /home/analyst/notes directory. <br/> <br/>
-(2) Then, I used the command "ls" to list the contents of the /home/analyst/notes directory to confirm that I have removed the file successfully.
+(2) Finally, I used the command "ls" to list the contents of the /home/analyst/notes directory to confirm that I have removed the file successfully.
  <br/> <br/> <p align="center">
 <img src="https://imgur.com/6nhtqbW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
 <br /> <br />
@@ -64,7 +64,7 @@ I moved the 'Q3patches.txt' file from the 'notes' directory to the 'repor
  In this task, I created a file named tasks.txt in the /home/analyst/notes directory that I will use to document completed tasks.
  <br /> <br/>
 (1) First, I used the command "touch tasks.txt" to use the touch command to create an empty file called tasks.txt in the /home/analyst/notes directory. <br/> <br/>
-(2) Then, I used the command "ls" to list the contents of the /home/analyst/notes directory to confirm that you have created a new file. 
+(2) Finally, I used the command "ls" to list the contents of the /home/analyst/notes directory to confirm that you have created a new file. 
  <br/> <br/> <p align="center">
 <img src="https://imgur.com/7DMOFEM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> <br />
