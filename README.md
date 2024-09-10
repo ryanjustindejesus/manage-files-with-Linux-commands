@@ -45,7 +45,7 @@ The `Q3patches.txt` file contains notes taken on third-quarter patches and is 
 I moved the 'Q3patches.txt' file from the 'notes' directory to the 'reports' directory. 
 <br /> <br />
 (1) First, I used the command "cd /home/analyst/notes" to navigate to the /home/analyst/notes directory. <br/> <br/>
-(2) Then, I used the command "mv Q3patches.txt /home/analyst/reports/" to move the Q3patches.txt file from the /home/analyst/notes directory to the /home/analyst/reports directory. <br/> <br/>
+(2) Next, I used the command "mv Q3patches.txt /home/analyst/reports/" to move the Q3patches.txt file from the /home/analyst/notes directory to the /home/analyst/reports directory. <br/> <br/>
 (3) Finally, I used the command "ls /home/analyst/reports" to list the contents of the /home/analyst/reports directory to confirm that I have moved the file successfully. 
 <br/> <br/> <p align="center"> 
 <img src="https://imgur.com/AJFmDll.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
@@ -73,7 +73,7 @@ I moved the 'Q3patches.txt' file from the 'notes' directory to the 'repor
 In this task, I used the nano text editor to edit the tasks.txt file and added a note describing the tasks I have completed.
   <br/> <br/>
 (1) First, I used the command "nano tasks.txt" to use the nano text editor, open the tasks.txt file that is located in the /home/analyst/notes directory. <br/> <br/>
-(2) Then, I pasted the text "  Completed tasks 1. Managed file structure in /home/analyst" in the nano editor. <br/> <br/>
+(2) Next, I pasted the text "  Completed tasks 1. Managed file structure in /home/analyst" in the nano editor. <br/> <br/>
 (3) Finally, I used the command "cat tasks.txt" to display the contents of the tasks.txt file to confirm that it contains the updated task details. 
  <br/> <br/> <p align="center">
 <img src="https://imgur.com/RKovfam.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
